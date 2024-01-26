@@ -1,2 +1,2 @@
 # minecraftstuff
-im following this tut: https://www.youtube.com/playlist?list=PLiDUvCGH5WEUEV9nc0Ll2pzUFmSFc21uR
+im following this tut: https://www.youtube.com/playlist?list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl
